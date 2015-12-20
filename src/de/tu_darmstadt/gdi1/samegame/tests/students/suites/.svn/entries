@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="6"
+   name=""
+   committed-date="2010-08-12T13:20:16.921843Z"
+   url="http://svn.sn7.eu/svn/blub/samegame/src/de/tu_darmstadt/gdi1/samegame/tests/students/suites"
+   last-author="funky"
+   kind="dir"
+   uuid="2dc8eb24-e4a6-4a0a-b996-ddef507034d4"
+   repos="http://svn.sn7.eu/svn/blub"
+   revision="162"/>
+<entry
+   committed-rev="6"
+   name="SameGameTestsuiteMinimal.java"
+   text-time="2010-08-15T19:17:31.717922Z"
+   committed-date="2010-08-12T13:20:16.921843Z"
+   checksum="0d849af42d1602b4cca8fec68d24f7d8"
+   last-author="funky"
+   kind="file"
+   prop-time="2010-08-15T19:17:31.676920Z"/>
+<entry
+   committed-rev="6"
+   name="SameGameTestSuiteAll.java"
+   text-time="2010-08-15T19:17:31.728923Z"
+   committed-date="2010-08-12T13:20:16.921843Z"
+   checksum="69f7d5369c8e6463f1e77426153b226c"
+   last-author="funky"
+   kind="file"
+   prop-time="2010-08-15T19:17:31.685920Z"/>
+<entry
+   committed-rev="6"
+   name="SameGameTestsuiteExtended1.java"
+   text-time="2010-08-15T19:17:31.742924Z"
+   committed-date="2010-08-12T13:20:16.921843Z"
+   checksum="cad983eda024b3748eaf6815900dce85"
+   last-author="funky"
+   kind="file"
+   prop-time="2010-08-15T19:17:31.692921Z"/>
+<entry
+   committed-rev="6"
+   name="SameGameTestsuiteExtended2.java"
+   text-time="2010-08-15T19:17:31.757925Z"
+   committed-date="2010-08-12T13:20:16.921843Z"
+   checksum="762cfafa7b53c8d8ae2711ca235f60fc"
+   last-author="funky"
+   kind="file"
+   prop-time="2010-08-15T19:17:31.703922Z"/>
+<entry
+   committed-rev="6"
+   name="SameGameTestsuiteExtended3.java"
+   text-time="2010-08-15T19:17:31.765925Z"
+   committed-date="2010-08-12T13:20:16.921843Z"
+   checksum="4824eb4d42fce64549394b3824239ffe"
+   last-author="funky"
+   kind="file"
+   prop-time="2010-08-15T19:17:31.708922Z"/>
+</wc-entries>

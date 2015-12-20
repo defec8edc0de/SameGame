@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="161"
+   name=""
+   committed-date="2010-08-17T13:05:15.839447Z"
+   url="http://svn.sn7.eu/svn/blub/samegame/src/de/tu_darmstadt/gdi1/resources/levels/defaultlevels"
+   last-author="markus"
+   kind="dir"
+   uuid="2dc8eb24-e4a6-4a0a-b996-ddef507034d4"
+   repos="http://svn.sn7.eu/svn/blub"
+   revision="162"/>
+<entry
+   committed-rev="6"
+   name="level_test.lvl"
+   text-time="2010-08-15T19:17:40.491424Z"
+   committed-date="2010-08-12T13:20:16.921843Z"
+   checksum="c2e085015f6926f1736959969c6407ad"
+   last-author="funky"
+   kind="file"
+   prop-time="2010-08-15T19:17:40.439421Z"/>
+<entry
+   committed-rev="142"
+   name="level_01.lvl"
+   text-time="2010-08-16T02:25:34.590172Z"
+   committed-date="2010-08-15T23:46:20.994795Z"
+   checksum="fd0534623e43475700957f5b8cbc437b"
+   last-author="funky"
+   kind="file"
+   prop-time="2010-08-16T02:25:34.553169Z"/>
+<entry
+   committed-rev="6"
+   name="level_test1.lvl"
+   text-time="2010-08-15T19:17:40.507425Z"
+   committed-date="2010-08-12T13:20:16.921843Z"
+   checksum="b3905570e703331f33b28fb114bb4af1"
+   last-author="funky"
+   kind="file"
+   prop-time="2010-08-15T19:17:40.448422Z"/>
+<entry
+   committed-rev="117"
+   name="level_02.lvl"
+   text-time="2010-08-15T19:17:40.515425Z"
+   committed-date="2010-08-15T16:03:06.829490Z"
+   checksum="b2740e5fee5ea58bb005c708559d6486"
+   last-author="funky"
+   kind="file"
+   prop-time="2010-08-15T19:17:40.454422Z"/>
+<entry
+   committed-rev="122"
+   name="gentest.sve"
+   text-time="2010-08-15T19:17:40.523426Z"
+   committed-date="2010-08-15T17:31:01.912696Z"
+   checksum="7377cc7d9c770d846ed35980fd620110"
+   last-author="funky"
+   kind="file"
+   prop-time="2010-08-15T19:17:40.458422Z"/>
+<entry
+   committed-rev="135"
+   name="level_03.lvl"
+   text-time="2010-08-15T20:31:39.824339Z"
+   committed-date="2010-08-15T19:31:08.624398Z"
+   checksum="e4b25eeaea3256be997302994b609500"
+   last-author="funky"
+   kind="file"
+   prop-time="2010-08-15T20:31:39.812339Z"/>
+<entry
+   committed-rev="161"
+   name="level_04.lvl"
+   text-time="2010-08-16T18:07:00.715652Z"
+   committed-date="2010-08-17T13:05:15.839447Z"
+   checksum="aee7c4a312c18430cd7c0cc138cc4913"
+   last-author="markus"
+   kind="file"
+   prop-time="2010-08-15T19:17:40.467423Z"/>
+<entry
+   committed-rev="161"
+   name="level_05.lvl"
+   text-time="2010-08-16T18:07:34.555588Z"
+   committed-date="2010-08-17T13:05:15.839447Z"
+   checksum="ff2c9423355a0f1d42744ab37de55475"
+   last-author="markus"
+   kind="file"
+   prop-time="2010-08-15T19:17:40.471423Z"/>
+<entry
+   committed-rev="6"
+   name="level_06.lvl"
+   text-time="2010-08-15T19:17:40.555428Z"
+   committed-date="2010-08-12T13:20:16.921843Z"
+   checksum="b3b3d3254ee9d25e0bcc9bbac0723434"
+   last-author="funky"
+   kind="file"
+   prop-time="2010-08-15T19:17:40.475423Z"/>
+<entry
+   committed-rev="122"
+   name="test.sve"
+   text-time="2010-08-15T19:17:40.563428Z"
+   committed-date="2010-08-15T17:31:01.912696Z"
+   checksum="e278e088f7f0d7893299e92b910b818c"
+   last-author="funky"
+   kind="file"
+   prop-time="2010-08-15T19:17:40.480423Z"/>
+<entry
+   committed-rev="122"
+   name="genLevel.lvl"
+   text-time="2010-08-15T19:17:40.571429Z"
+   committed-date="2010-08-15T17:31:01.912696Z"
+   checksum="63a0061ea8e24a65b276cadfc6195ecb"
+   last-author="funky"
+   kind="file"
+   prop-time="2010-08-15T19:17:40.484424Z"/>
+</wc-entries>

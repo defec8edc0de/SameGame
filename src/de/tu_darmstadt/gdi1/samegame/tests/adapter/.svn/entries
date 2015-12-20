@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="149"
+   name=""
+   committed-date="2010-08-16T13:45:04.734620Z"
+   url="http://svn.sn7.eu/svn/blub/samegame/src/de/tu_darmstadt/gdi1/samegame/tests/adapter"
+   last-author="markus"
+   kind="dir"
+   uuid="2dc8eb24-e4a6-4a0a-b996-ddef507034d4"
+   repos="http://svn.sn7.eu/svn/blub"
+   revision="162"/>
+<entry
+   committed-rev="149"
+   name="SameGameTestAdapterExtended1.java"
+   text-time="2010-08-16T13:44:59.672460Z"
+   committed-date="2010-08-16T13:45:04.734620Z"
+   checksum="9f8af70bf314c3d9a5541cd059c6f5af"
+   last-author="markus"
+   kind="file"
+   prop-time="2010-08-15T19:17:31.314899Z"/>
+<entry
+   committed-rev="6"
+   name="SameGameTestAdapterExtended2.java"
+   text-time="2010-08-15T19:17:31.390904Z"
+   committed-date="2010-08-12T13:20:16.921843Z"
+   checksum="ddd2b68280d01a8acbda9c080c26ecd5"
+   last-author="funky"
+   kind="file"
+   prop-time="2010-08-15T19:17:31.321900Z"/>
+<entry
+   committed-rev="51"
+   name="SameGameTestAdapterExtended3.java"
+   text-time="2010-08-15T19:17:31.487909Z"
+   committed-date="2010-08-13T16:01:16.321556Z"
+   checksum="fbb6a906088428b2d95f18ca866a8bfd"
+   last-author="funky"
+   kind="file"
+   prop-time="2010-08-15T19:17:31.333900Z"/>
+<entry
+   committed-rev="72"
+   name="SameGameTestAdapterMinimal.java"
+   text-time="2010-08-15T19:17:31.550913Z"
+   committed-date="2010-08-14T13:52:04.254717Z"
+   checksum="5dd0b474aaa3d0ef72de8576d48be00d"
+   last-author="funky"
+   kind="file"
+   prop-time="2010-08-15T19:17:31.345901Z"/>
+</wc-entries>

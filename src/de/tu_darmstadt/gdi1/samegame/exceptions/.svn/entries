@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="148"
+   name=""
+   committed-date="2010-08-16T13:43:31.392496Z"
+   url="http://svn.sn7.eu/svn/blub/samegame/src/de/tu_darmstadt/gdi1/samegame/exceptions"
+   last-author="markus"
+   kind="dir"
+   uuid="2dc8eb24-e4a6-4a0a-b996-ddef507034d4"
+   repos="http://svn.sn7.eu/svn/blub"
+   revision="162"/>
+<entry
+   committed-rev="148"
+   name="InternalFailureException.java"
+   text-time="2010-08-16T13:38:21.549689Z"
+   committed-date="2010-08-16T13:43:31.392496Z"
+   checksum="e9113dae87c875950d34204d90afb2c0"
+   last-author="markus"
+   kind="file"
+   prop-time="2010-08-15T19:17:31.229894Z"/>
+<entry
+   committed-rev="6"
+   name="InvalidOperationException.java"
+   text-time="2010-08-15T19:17:31.261896Z"
+   committed-date="2010-08-12T13:20:16.921843Z"
+   checksum="a4d904b4fc286feb98f8d505f72c98e0"
+   last-author="funky"
+   kind="file"
+   prop-time="2010-08-15T19:17:31.234895Z"/>
+<entry
+   committed-rev="6"
+   name="ParameterOutOfRangeException.java"
+   text-time="2010-08-15T19:17:31.270897Z"
+   committed-date="2010-08-12T13:20:16.921843Z"
+   checksum="2f6c856d20bf65ed6808dceeef31ce68"
+   last-author="funky"
+   kind="file"
+   prop-time="2010-08-15T19:17:31.240895Z"/>
+</wc-entries>

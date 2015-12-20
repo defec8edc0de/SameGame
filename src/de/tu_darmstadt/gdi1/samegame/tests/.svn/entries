@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="149"
+   name=""
+   committed-date="2010-08-16T13:45:04.734620Z"
+   url="http://svn.sn7.eu/svn/blub/samegame/src/de/tu_darmstadt/gdi1/samegame/tests"
+   last-author="markus"
+   kind="dir"
+   uuid="2dc8eb24-e4a6-4a0a-b996-ddef507034d4"
+   repos="http://svn.sn7.eu/svn/blub"
+   revision="162"/>
+<entry
+   name="adapter"
+   kind="dir"/>
+<entry
+   name="students"
+   kind="dir"/>
+</wc-entries>

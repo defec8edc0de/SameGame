@@ -1,0 +1,158 @@
+noSuchKeyException=Es gibt keine Ressource f\u00fcr Eintrag {0}
+
+//Meldungen
+messageGameOver=Keine weiteren Z\u00fcge möglich! \n Erreichte Punkte: 
+messageGameOverTitle=Spielende
+messageHighscore=Bitte geben Sie ihren Namen zum Speichern in der Highscore ein
+messageErrorLoadLevel=Die gew\u00e4hlte Datei ist keine korrekte Leveldatei!
+messageErrorLoadLevelTitle=Fehler beim Laden der Datei
+messageSaveGame=Geben Sie ihren Namen als Spielstandname ein
+messageSaveGameTitle=Spielstand speichern
+messageOverwrite=Eine Datei mit diesem Namen existiert bereits. Soll sie ersetzt werden?
+messageOverwriteTitle=Warnung
+messageSaveGenerated=Dieser Level wurde generiert - Sie müssen ihn erst Speichern!
+messageSaveGeneratedTitle=Achtung
+messageSaveLevel=Sie haben dieses Level generiert - geben Sie zuerst einen Namen für das generierte Level ein:
+messageSaveLevelTitle=Level speichern
+
+//Statusanzeige
+statusStones=Mindestanzahl Steine: 
+statusTime=Zeit: 
+statusPoints=Punkte: 
+
+//HIGHSCORE
+highscoreSaveButton.label=Highscore speichern
+highscoreSaveButton.mnemonic=H
+highscoreSaveButton.toolTipText=
+highscoreSaveButton.iconName=
+highscoreTargetTime=Zeitvorgabe: 
+highscoreName=Name
+highscorePoints=Punkte
+highscoreTime=Zeit
+highscoreDate=Datum
+
+//MENÜELEMENTE
+//dateimenü
+fileMenu.label=Datei
+fileMenu.mnemonic=D
+fileMenu.toolTipText=
+fMRestart.label=Level Neustarten          N
+fMRestart.mnemonic=N
+fMRestart.toolTipText=
+fMChooseSkin.label=Skin ausw\u00e4hlen
+fMChooseSkin.mnemonic=k
+fMChooseSkin.toolTipText=
+fMChooseLanguage.label=Sprache ausw\u00e4hlen
+fMChooseLanguage.mnemonic=S
+fMChooseLanguage.toolTipText=
+fMGerman.label=Deutsch
+fMGerman.mnemonic=t
+fMGerman.toolTipText=
+fMEnglish.label=Englisch
+fMEnglish.mnemonic=E
+fMEnglish.toolTipText=
+fMFrench.label=Franz\u00f6sisch
+fMFrench.mnemonic=F
+fMFrench.toolTipText=
+fMQuit.label=Beenden
+fMQuit.mnemonic=B
+fMQuit.toolTipText=
+fMChooseSkinDefault.label=DefaultSkin
+fMChooseSkinDefault.mnemonic=
+fMChooseSkinDefault.toolTipText=
+fMChooseCircleSkin.label=CircleSkin
+fMChooseCircleSkin.mnemonic=
+fMChooseCircleSkin.toolTipText=
+fMChooseHexSkin.label=HexagonSkin
+fMChooseHexSkin.mnemonic=H
+fMChooseHexSkin.toolTipText=
+
+//bearbeiten-menü
+editMenu.label=Bearbeiten
+editMenu.mnemonic=B
+editMenu.toolTipText=
+eMRedo.label=Wiederherstellen                 Enter
+eMRedo.mnemonic=W
+eMRedo.toolTipText=
+eMUndo.label=R\u00fcckg\u00e4ngig machen           Backspace
+eMUndo.mnemonic=R
+eMUndo.toolTipText=
+eMTip.label=Tip                                            H
+eMTip.mnemonic=T
+eMTip.toolTipText=
+
+//optionsmenü
+optionsMenu.label=Leveloptionen
+optionsMenu.mnemonic=L
+optionsMenu.toolTipText=
+oMopen.label=Level \u00f6ffnen
+oMopen.mnemonic=\u00f6
+oMopen.toolTipText=
+oMSave.label=Spielstand speichern
+oMSave.mnemonic=s
+oMSave.toolTipText=
+oMLoad.label=Spielstand laden
+oMLoad.mnemonic=l
+oMLoad.toolTipText=
+oMGenerate.label=Level generieren
+oMGenerate.mnemonic=g
+oMGenerate.toolTipText=
+
+//infomenü
+infoMenu.label=Info
+infoMenu.mnemonic=I
+infoMenu.toolTipText=
+iMHelp.label=Hilfe
+iMHelp.mnemonic=H
+iMHelp.toolTipText=
+iMAbout.label=\u00dcber
+iMAbout.mnemonic=\u00dc
+iMAbout.toolTipText=
+iMHighscore.label=Highscore anzeigen
+iMHighscore.mnemonic=a
+iMHighscore.toolTipText=
+
+
+//ABOUT-SAMEGAME-FENSTER
+aboutExitPanel= 
+aboutExitButton.label=O.K.
+aboutExitButton.mnemonic=O
+aboutExitButton.toolTipText=Fenster schliessen
+aboutExitButton.iconName=
+aboutGeneralInfo=Allgemeines
+aboutGenInfLabel=<html><body><div align="center">TU Darmstadt<br>Fachbereich 20: Informatik<br>Grundlagen der Informatik 1 - Praktikum<br><br>August 2010</div></body></html>
+aboutInfoPanel=Entwickelt von
+aboutInfoLabel=<html><body>Tim Nicolas Eicke<br>Sebastian Funke<br>Bernhard Preisler<br>Markus Tasch</body></html>
+aboutTitle=\u00dcber SameGame
+
+//HILFE-SAMEGAME-FENSTER
+helpExitPanel= 
+helpExitButton.label=Fertig
+helpExitButton.mnemonic=O
+helpExitButton.toolTipText=Dr\u00fccken Sie diesen Knopf zum Schließen des Fensters
+helpExitButton.iconName=
+helpGeneralInfo=Allgemeines
+helpGenInfLabel=<html><body>In SameGame ist ein rechteckiges Spielfeld mit Spielsteinen verschiedener Sorten gefüllt.<br> Die Steine sind in Spalten und Zeilen angeordnet. Das Spiel ist ein Spiel für Einzelspieler. <br>Der Spieler versucht, möglichst viele Steine vom Spielfeld zu entfernen. Es lassen sich nur solche<br> Steine entfernen, die an andere Steine derselben Art angrenzen.<br>Entfernt werden dann alle gleichartigen aneinander angrenzenden Steine gemeinsam.<br> Steine, die sich oberhalb der entfernten Steine befinden, fallen herunter, <br>bzw. r\u00fccken spaltenweise von rechts auf, wenn eine ganze Spalte frei wird.</html></body>
+helpInfoPanel=Regeln und Tastenkombinationen
+helpInfoLabel=<html><body><h3>Regeln:</h3>1. Alle Steine können nur in Paaren oder in mehrfacher Formation entfernt werden, je nachdem wie die <br>Option zusammenhängene Steine eingestellt wurde!<br>2. Je mehr Steine auf einen Schlag entfernt werden, desto mehr Punkte werden exponentiell angerechnet!<br>3. Je mehr Zeit Zeit für das Lösen eines Levels in Anpruch genommen wird, desto weniger Punkte wird<br> am Ende des Spieles hinzu addiert!<br><br><h3>Tastenkombinationen:</h3>Pfeiltasten: Die Pfeiltasten bezwecken die Auswahl der Steine<br>Die Taste N:Die Taste N bezweckt das Neustarten des gespielten Levels<br>Die Backspacetaste: Die Backspacetaste macht den aktuellen Zug rückgängig<br>Die Entertaste: Die Entertaste stellt einen rückgängig gemacht Zug wieder her<br>Die Taste Q: Die Taste Q schließt das Spiel</body></html>
+helpTitle=Hilfe \u00fcber SameGame
+
+//GENERATOR-FENSTER
+generatorTitle=Generator-Einstellungen
+generatorWidthPanel=Breite des Spielfeldes
+generatorWidthText=
+generatorHeightPanel=H\u00f6he des Spielfeldes
+generatorHeightText=
+generatorColorPanel=Anzahl Farben
+generatorColorText=
+generatorStonePanel=Zusammenh\u00e4ngende Steine
+generatorStoneText=
+generatorButtonPanel=
+generatorOK.label=Level erstellen
+generatorOK.mnemonic=e
+generatorOK.iconName=
+generatorOK.toolTipText=Neuen Level erstellen
+generatorCancel.label=Abbrechen
+generatorCancel.mnemonic=b
+generatorCancel.iconName=
+generatorCancel.toolTipText=Generierung abbrechen

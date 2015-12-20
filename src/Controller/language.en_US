@@ -1,0 +1,157 @@
+noSuchKeyException=There is no ressource for element {0}
+
+//Meldungen
+messageGameOver=No further moves possibles! \n Points scored: 
+messageGameOverTitle=Game Over!
+messageHighscore=Please enter your name to save your score
+messageErrorLoadLevel=The selected file is no correct level file!
+messageErrorLoadLevelTitle=File loading error
+messageSaveGame=Please enter your name to save 
+messageSaveGameTitle=Save game
+messageOverwrite=A file with this name already exists. Overwrite file?
+messageOverwriteTitle=Warning!
+messageSaveGenerated=This level has been generated - it has to be saved first!
+messageSaveGeneratedTitle=Attention!
+messageSaveLevel=This level has been generated - please enter a name for this generated level:
+messageSaveLevelTitle=Save level
+
+//STATUSANZEIGE
+statusStones=Quorum of stones: 
+statusTime=Time: 
+statusPoints=Points: 
+
+//HIGHSCORE
+highscoreSaveButton.label=Save Highscore
+highscoreSaveButton.mnemonic=S
+highscoreSaveButton.toolTipText=
+highscoreSaveButton.iconName=
+highscoreTargetTime=Target time: 
+highscoreName=Name
+highscorePoints=Points
+highscoreTime=Time
+highscoreDate=Date
+
+//MENÜELEMENTE
+fileMenu.label=File
+fileMenu.mnemonic=F
+fileMenu.toolTipText=
+fMRestart.label=Restart level          N
+fMRestart.mnemonic=R
+fMRestart.toolTipText=
+fMChooseSkin.label=Choose skin
+fMChooseSkin.mnemonic=k
+fMChooseSkin.toolTipText=
+fMChooseLanguage.label=Choose language
+fMChooseLanguage.mnemonic=S
+fMChooseLanguage.toolTipText=
+fMGerman.label=German
+fMGerman.mnemonic=G
+fMGerman.toolTipText=
+fMEnglish.label=English
+fMEnglish.mnemonic=E
+fMEnglish.toolTipText=
+fMFrench.label=French
+fMFrench.mnemonic=F
+fMFrench.toolTipText=
+fMQuit.label=Quit
+fMQuit.mnemonic=Q
+fMQuit.toolTipText=
+fMChooseSkinDefault.label=DefaultSkin
+fMChooseSkinDefault.mnemonic=
+fMChooseSkinDefault.toolTipText=
+fMChooseCircleSkin.label=CircleSkin
+fMChooseCircleSkin.mnemonic=
+fMChooseCircleSkin.toolTipText=
+fMChooseHexSkin.label=HexagonSkin
+fMChooseHexSkin.mnemonic=H
+fMChooseHexSkin.toolTipText=
+
+//bearbeiten-menü
+editMenu.label=Edit
+editMenu.mnemonic=E
+editMenu.toolTipText=
+eMRedo.label=Redo                 Enter
+eMRedo.mnemonic=R
+eMRedo.toolTipText=
+eMUndo.label=Undo                 Backspace
+eMUndo.mnemonic=U
+eMUndo.toolTipText=
+eMTip.label=Hint                    H
+eMTip.mnemonic=H
+eMTip.toolTipText=
+
+
+//optionsmenü
+optionsMenu.label=Level options
+optionsMenu.mnemonic=L
+optionsMenu.toolTipText=
+oMopen.label=Open level
+oMopen.mnemonic=O
+oMopen.toolTipText=
+oMSave.label=Save game
+oMSave.mnemonic=S
+oMSave.toolTipText=
+oMLoad.label=Load game
+oMLoad.mnemonic=L
+oMLoad.toolTipText=
+oMGenerate.label=Generate level
+oMGenerate.mnemonic=G
+oMGenerate.toolTipText=
+
+//infomenü
+infoMenu.label=Info
+infoMenu.mnemonic=I
+infoMenu.toolTipText=
+iMHelp.label=Help
+iMHelp.mnemonic=H
+iMHelp.toolTipText=
+iMAbout.label=About
+iMAbout.mnemonic=A
+iMAbout.toolTipText=
+iMHighscore.label=Display Highscore
+iMHighscore.mnemonic=p
+iMHighscore.toolTipText=
+
+//ABOUT-SAMEGAME-FENSTER
+aboutExitPanel = 
+aboutExitButton.label=O.K.
+aboutExitButton.mnemonic=O
+aboutExitButton.toolTipText=Press this button to close the window
+aboutExitButton.iconName=
+aboutGeneralInfo=General Information
+aboutGenInfLabel=<html><body><div align="center">TU Darmstadt<br>Department 20: Computer Science<br>Basics of Computer Science 1 practical<br><br>August of 2010</div></body></html>
+aboutInfoPanel=Developed by
+aboutInfoLabel=<html><body>Tim Nicolas Eicke<br>Sebastian Funke<br>Bernhard Preisler<br>Markus Tasch</body></html>
+aboutTitle=About SameGame
+
+//HELP-SAMEGAME-WINDOW
+helpExitPanel= 
+helpExitButton.label=Done
+helpExitButton.mnemonic=O
+helpExitButton.toolTipText=Press this button to close the window
+helpExitButton.iconName=
+helpGeneralInfo=General Information
+helpGenInfLabel=<html><body>Same Game is played on a rectangular field initially filled with <br>2 to 5 kinds of blocks placed at random. By selecting one of a group of adjoining blocks of <br>the same color, a player may remove them from the screen by clicking them.<br>Blocks that are no longer supported by removed blocks <br>will fall down,and a column without any blocks will be trimmed away by other columns always <br>sliding to the left. The goal of the game is to remove as many blocks <br>from the playing field as possible.</html></body>
+helpInfoPanel=Rules and Keyboard Shortcuts
+helpInfoLabel=<html><body><h3>Rules:</h3>1st All stones can be removed only in pairs or in multiple formations, depending on how the option <br> connected stones was set! <br> 2nd The more tiles are removed in one run, the more points you are credited with exponentially! <br> 3rd The more time is need for solving a level, the fewer points will be added <br> at the end of the game! <br> <h3> Hotkeys: </h3> Cursor: The arrow keys are designed to select the stones <br> Press N: The current level will be restarted <br>the backspace key: The most recent move will be canceled <br> the Enter key: The last canceled move will be restored<br> Use Q: The Q key closes the game</body></html>
+helpTitle=SameGame help
+
+//GENERATOR-FENSTER
+generatorTitle=Generator settings
+generatorWidthPanel=Gameboard width
+generatorWidthText=
+generatorHeightPanel=Gameboard height
+generatorHeightText=
+generatorColorPanel=Number of colors
+generatorColorText=
+generatorStonePanel=Connected stones
+generatorStoneText=
+generatorButtonPanel=
+generatorOK.label=Create Level
+generatorOK.mnemonic=e
+generatorOK.iconName=
+generatorOK.toolTipText=Create a new level
+generatorCancel.label=Cancel
+generatorCancel.mnemonic=c
+generatorCancel.iconName=
+generatorCancel.toolTipText=Cancel level creation

@@ -1,0 +1,93 @@
+package de.tu_darmstadt.gdi1.samegame.tests.adapter;
+
+import Model.levelGenerator;
+import de.tu_darmstadt.gdi1.samegame.ui.GameWindow;
+
+
+/**
+ * This is the test adapter for the third extended stage of completion.
+ * Implement all method stubs in order for the tests to work.
+ * <br><br>
+ * <i>Note:</i> This test adapter inherits from the second extended test adapter
+ * 
+ * @see SameGameTestAdapterMinimal
+ * @see SameGameTestAdapterExtended1
+ * @see SameGameTestAdapterExtended2
+ * 
+ * @author Jonas Marczona
+ * @author Manuel Pütz
+ */
+public class SameGameTestAdapterExtended3 extends SameGameTestAdapterExtended2 {
+	levelGenerator generator;
+	/**
+	 * Use this constructor to initialize everything you need.
+	 */
+	public SameGameTestAdapterExtended3() {
+		super();
+		 generator=new levelGenerator();
+	}
+
+	/**
+	 * Generate a level with the given width and height. It should be returned as string representation of a valid level
+	 * as described in the documentation <b>without additional information</b>. <br>
+	 * Counting starts at 1, that means a 3x3 board has a width and height of three.<br>
+	 * 
+	 * <b>This method must throw an exception when called with illegal parameters.</b>
+	 * 
+	 * @param width
+	 *            the width of the generated level
+	 * @param height
+	 *            the height of the generated level
+	 * @param numberOfColors
+	 *            the exact number of different colors for the stones in this level
+	 * @param minStones
+	 *            the minimum number of adjacent stones for removing
+	 * @return string representation of the generated level
+	 * 
+	 * @throws Exception
+	 *             when called with illegal parameters. The exception thrown is implementation dependent. An
+	 *             {@link IllegalArgumentException}, something inheriting from it or an exception-class of your own could be a good choice.
+	 */
+	public String generateLevel(int width, int height, int numberOfColors, int minStones) throws Exception {
+		generator.generateNewLevel(width,height,numberOfColors,minStones);
+		return generator.toString();
+	}
+	
+	/**
+	 * Like {@link GameWindow#keySpacePressed()}.
+	 * 
+	 * @see {@link GameWindow#keySpacePressed()}
+	 * @see SameGameTestAdapterExtended2#handleKeyPressedNew()
+	 */
+	public void handleKeyPressedSpace() {
+		controller.keySpacePressed();
+	}
+	
+	/**
+	 * Like {@link GameWindow#keyUpPressed()}.
+	 */
+	public void handleKeyPressedUp() {
+		controller.keyUpPressed();
+	}
+	
+	/**
+	 * Like {@link GameWindow#keyDownPressed()}.
+	 */
+	public void handleKeyPressedDown() {
+		controller.keyDownPressed();
+	}
+	
+	/**
+	 * Like {@link GameWindow#keyLeftPressed()}.
+	 */
+	public void handleKeyPressedLeft() {
+		controller.keyLeftPressed();
+	}
+	
+	/**
+	 * Like {@link GameWindow#keyRightPressed()}.
+	 */
+	public void handleKeyPressedRight() {
+		controller.keyRightPressed();
+	}
+}

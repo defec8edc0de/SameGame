@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="122"
+   name=""
+   committed-date="2010-08-15T17:31:01.912696Z"
+   url="http://svn.sn7.eu/svn/blub/samegame/src/de/tu_darmstadt/gdi1/resources/images"
+   last-author="funky"
+   kind="dir"
+   uuid="2dc8eb24-e4a6-4a0a-b996-ddef507034d4"
+   repos="http://svn.sn7.eu/svn/blub"
+   revision="162"/>
+<entry
+   name="circleskin"
+   kind="dir"/>
+<entry
+   name="defaultskin"
+   kind="dir"/>
+<entry
+   name="hexagonskin"
+   kind="dir"/>
+</wc-entries>

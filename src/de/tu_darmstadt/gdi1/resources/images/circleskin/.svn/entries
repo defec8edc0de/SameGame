@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="84"
+   name=""
+   committed-date="2010-08-14T15:39:11.530420Z"
+   url="http://svn.sn7.eu/svn/blub/samegame/src/de/tu_darmstadt/gdi1/resources/images/circleskin"
+   last-author="funky"
+   kind="dir"
+   uuid="2dc8eb24-e4a6-4a0a-b996-ddef507034d4"
+   repos="http://svn.sn7.eu/svn/blub"
+   revision="162"/>
+<entry
+   committed-rev="64"
+   name="back.jpg"
+   text-time="2010-08-15T19:17:35.733152Z"
+   committed-date="2010-08-14T00:00:23.161391Z"
+   checksum="8f7bc573ecbfa86844d1f3d1293cb99b"
+   last-author="funky"
+   kind="file"
+   prop-time="2010-08-15T19:17:35.437135Z"/>
+<entry
+   committed-rev="84"
+   name="empty.png"
+   text-time="2010-08-15T19:17:35.760154Z"
+   committed-date="2010-08-14T15:39:11.530420Z"
+   checksum="2431567b401c6a13e0f2a051c8e9af6c"
+   last-author="funky"
+   kind="file"
+   prop-time="2010-08-15T19:17:35.464137Z"/>
+<entry
+   committed-rev="64"
+   name="colorone.png"
+   text-time="2010-08-15T19:17:35.784155Z"
+   committed-date="2010-08-14T00:00:23.161391Z"
+   checksum="0ef3bd6cca80c8ea2d11222d4396bf2e"
+   last-author="funky"
+   kind="file"
+   prop-time="2010-08-15T19:17:35.498139Z"/>
+<entry
+   committed-rev="84"
+   name="Thumbs.db"
+   text-time="2010-08-15T19:17:35.794155Z"
+   committed-date="2010-08-14T15:39:11.530420Z"
+   checksum="b0eff3b1846ff3799b16e8bf5c617943"
+   last-author="funky"
+   kind="file"
+   prop-time="2010-08-15T19:17:35.623146Z"/>
+<entry
+   committed-rev="64"
+   name="colorthree.png"
+   text-time="2010-08-15T19:17:35.802156Z"
+   committed-date="2010-08-14T00:00:23.161391Z"
+   checksum="74234d74d0a565fb849d3ad33ccb7010"
+   last-author="funky"
+   kind="file"
+   prop-time="2010-08-15T19:17:35.653147Z"/>
+<entry
+   committed-rev="64"
+   name="colorfive.png"
+   text-time="2010-08-15T19:17:35.811156Z"
+   committed-date="2010-08-14T00:00:23.161391Z"
+   checksum="25a0627d03ed744446bf4a97b40fd894"
+   last-author="funky"
+   kind="file"
+   prop-time="2010-08-15T19:17:35.669148Z"/>
+<entry
+   committed-rev="64"
+   name="colortwo.png"
+   text-time="2010-08-15T19:17:35.820157Z"
+   committed-date="2010-08-14T00:00:23.161391Z"
+   checksum="c2806fa370502e070907b410e35ffef8"
+   last-author="funky"
+   kind="file"
+   prop-time="2010-08-15T19:17:35.685149Z"/>
+<entry
+   committed-rev="64"
+   name="colorfour.png"
+   text-time="2010-08-15T19:17:35.828157Z"
+   committed-date="2010-08-14T00:00:23.161391Z"
+   checksum="186ea0ce18484e1f03c9e61816a0ba93"
+   last-author="funky"
+   kind="file"
+   prop-time="2010-08-15T19:17:35.715151Z"/>
+</wc-entries>

@@ -1,0 +1,158 @@
+noSuchKeyException=Il n\u00b4y a pas de ressource pour cette entr\u00e9e  {0}
+
+//Meldungen
+messageGameOver=Pas d\u00b4autres encha\u00eenements possible!\n Points atteints: 
+messageGameOverTitle=Fin de jeu
+messageHighscore=Veuillez sugg\u00e9rer leur nom visant le stockage dans le Highscore
+messageErrorLoadLevel=Le fichier choisi n\u00b4est pas un fichier de niveau correct!
+messageErrorLoadLevelTitle=Erreur en le chargement du fichier
+messageSaveGame=Sugg\u00e9rez leur nom comme nom d'\u00e9tat de jeu
+messageSaveGameTitle=Enregistrer l\u00b4\u00e9tat de jeu
+messageOverwrite=Un fichier avec ce nom existe d\u00e9j\u00e0. Doit-elle \u00eatre remplac\u00e9e?
+messageOverwriteTitle=Avertissement
+messageSaveGenerated=Ce niveau a \u00e9t\u00e9 produit - devoir seulement lui vous stocker.
+messageSaveGeneratedTitle=Attention!
+messageSaveLevel=Ils ont produit ce niveau - vous sugg\u00e9rer d'abord un nom pour le niveau produit:
+messageSaveLevelTitle=Enregistrer le niveau
+
+//Statusanzeige
+statusStones=Nombre minimal de pierres: 
+statusTime=Temps: 
+statusPoints=Points: 
+
+//HIGHSCORE
+highscoreSaveButton.label=Enregistrer highscore
+highscoreSaveButton.mnemonic=s
+highscoreSaveButton.toolTipText=
+highscoreSaveButton.iconName=
+highscoreTargetTime=Temps allou\u00e9
+highscoreName=Nom
+highscorePoints=Points
+highscoreTime=Temps
+highscoreDate=Date
+
+//MENÜELEMENTE
+//dateimenü
+fileMenu.label=Fichier
+fileMenu.mnemonic=F
+fileMenu.toolTipText=
+fMRestart.label=Recommencer le niveu          N
+fMRestart.mnemonic=R
+fMRestart.toolTipText=
+fMChooseSkin.label=Choisir le skin
+fMChooseSkin.mnemonic=k
+fMChooseSkin.toolTipText=
+fMChooseLanguage.label=Choisir la langue
+fMChooseLanguage.mnemonic=s
+fMChooseLanguage.toolTipText=
+fMGerman.label=Allemand
+fMGerman.mnemonic=A
+fMGerman.toolTipText=
+fMEnglish.label=Anglais
+fMEnglish.mnemonic=G
+fMEnglish.toolTipText=
+fMFrench.label=Fran\u00e7ais
+fMFrench.mnemonic=F
+fMFrench.toolTipText=
+fMQuit.label=Arr\u00eater
+fMQuit.mnemonic=A
+fMQuit.toolTipText=
+fMChooseSkinDefault.label=DefaultSkin
+fMChooseSkinDefault.mnemonic=
+fMChooseSkinDefault.toolTipText=
+fMChooseCircleSkin.label=CercleSkin
+fMChooseCircleSkin.mnemonic=
+fMChooseCircleSkin.toolTipText=
+fMChooseHexSkin.label=HexagoneSkin
+fMChooseHexSkin.mnemonic=H
+fMChooseHexSkin.toolTipText=
+
+//bearbeiten-menü
+editMenu.label=Edition
+editMenu.mnemonic=E
+editMenu.toolTipText=
+eMRedo.label=Reconstituer          touche Entr\u00e9e
+eMRedo.mnemonic=R
+eMRedo.toolTipText=
+eMUndo.label=Anuller                     touche Retour arri\u00e8re
+eMUndo.mnemonic=A
+eMUndo.toolTipText=
+eMTip.label=Rencard                   H
+eMTip.mnemonic=e
+eMTip.toolTipText=
+
+//optionsmenü
+optionsMenu.label=Options du niveau 
+optionsMenu.mnemonic=O
+optionsMenu.toolTipText=
+oMopen.label=Ouvrir un niveau
+oMopen.mnemonic=u
+oMopen.toolTipText=
+oMSave.label=Enregistrer l\u00b4\u00e9tat de jeu
+oMSave.mnemonic=E
+oMSave.toolTipText=
+oMLoad.label=Charger un \u00e9tat de jeu
+oMLoad.mnemonic=a
+oMLoad.toolTipText=
+oMGenerate.label=Engendrer un niveau
+oMGenerate.mnemonic=g
+oMGenerate.toolTipText=
+
+//infomenü
+infoMenu.label=Info
+infoMenu.mnemonic=I
+infoMenu.toolTipText=
+iMHelp.label=Aide
+iMHelp.mnemonic=A
+iMHelp.toolTipText=
+iMAbout.label=Sur
+iMAbout.mnemonic=S
+iMAbout.toolTipText=
+iMHighscore.label=Indiquer la highscore
+iMHighscore.mnemonic=h
+iMHighscore.toolTipText=
+
+
+//ABOUT-SAMEGAME-FENSTER
+aboutExitPanel= 
+aboutExitButton.label=OK
+aboutExitButton.mnemonic=O
+aboutExitButton.toolTipText=
+aboutExitButton.iconName=
+aboutGeneralInfo=G\u00e9n\u00e9ralit\u00e9s
+aboutGenInfLabel=<html><body><div align="center">TU Darmstadt<br>UFR 20: informatique<br>Principes de la  informatique 1 - stage<br><br>Ao\u00fbt 2010</div></body></html>
+aboutInfoPanel=D\u00e9velopp\u00e9 de
+aboutInfoLabel=<html><body>Tim Nicolas Eicke<br>Sebastian Funke<br>Bernhard Preisler<br>Markus Tasch</body></html>
+aboutTitle=Sur SameGame
+
+//HELP-SAMEGAME-FENSTER
+helpExitPanel= 
+helpExitButton.label=Fini
+helpExitButton.mnemonic=F
+helpExitButton.toolTipText=Presser le bouton afin de fermer la fenetre
+helpExitButton.iconName=
+helpGeneralInfo=Information generale
+helpGenInfLabel=<html><body>Same Game est joué sur un terrain rectangulaire initialement rempli de types en général 4 ou 5 de <br>blocs placés au hasard. En sélectionnant l'un d'un groupe de blocs adjacents de même couleur, un joueur <br>peut les supprimer de l'écran en cliquant sur les (un seul clic dans certaines versions, <br>double-cliquez dans d'autres). Les blocs qui ne sont plus pris en charge par des blocs enlevés va <br>tomber, et une colonne sans blocs seront taillés loin par d'autres colonnes toujours <br>coulissante sur un côté (souvent à gauche.) Le but du jeu est d'enlever autant de blocs de la <br>terrain de jeu que possible.</html></body>
+helpInfoPanel=Les règles et les raccourcis clavier
+helpInfoLabel=<html><body><h3>Les Règles</h3>Première Toutes les pierres peuvent être enlevés que par deux ou en formations multiples, <br>en fonction de l'option  pierres liées a été créé! <br> 2 Les tuiles sont enlevées plus d'un seul coup, plus les points sont de façon exponentielle! <br> 3 Le plus de temps pour la publication d'un niveau est attirée vers le bas, les points seront moins <br> à la fin de la partie ajoutée ajouté! <br> <h3>Raccourcis: </h3> Cursor: Les touches de direction sont conçus à la sélection les pierres <br> Communiqué de presse N: Le principal objectif de relancer les niveaux de N joué la touche Retour arrière:<br> la touche backspace  le train courant s'inverse <br> la touche Entrée: la touche Entrée est un train de restaurer inversé <br> Utilisez Q: La touche Q ferme le jeu</body></html>
+helpTitle=Aide pour SameGame
+
+//GENERATOR-FENSTER
+generatorTitle=Param\u00e8tres du g\u00e9n\u00e9rateur 
+generatorWidthPanel=Largeur du terrain de jeu
+generatorWidthText=
+generatorHeightPanel=Hauteuere du terrain de jeu
+generatorHeightText=
+generatorColorPanel=Nombre de couleurs
+generatorColorText=
+generatorStonePanel=Nombre minimal de pierres
+generatorStoneText=
+generatorButtonPanel=
+generatorOK.label=Fournit le niveau
+generatorOK.mnemonic=F
+generatorOK.iconName=
+generatorOK.toolTipText=
+generatorCancel.label=Annuler
+generatorCancel.mnemonic=A
+generatorCancel.iconName=
+generatorCancel.toolTipText=

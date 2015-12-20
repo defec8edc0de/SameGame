@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="150"
+   name=""
+   committed-date="2010-08-16T13:48:34.490762Z"
+   url="http://svn.sn7.eu/svn/blub/samegame/src/de/tu_darmstadt/gdi1/samegame/ui"
+   last-author="markus"
+   kind="dir"
+   uuid="2dc8eb24-e4a6-4a0a-b996-ddef507034d4"
+   repos="http://svn.sn7.eu/svn/blub"
+   revision="162"/>
+<entry
+   committed-rev="148"
+   name="GameWindow.java"
+   text-time="2010-08-16T13:38:49.059262Z"
+   committed-date="2010-08-16T13:43:31.392496Z"
+   checksum="e3e550934b8030a30bf02be7ee08a6ea"
+   last-author="markus"
+   kind="file"
+   prop-time="2010-08-15T19:17:32.081943Z"/>
+<entry
+   committed-rev="150"
+   name="GamePanel.java"
+   text-time="2010-08-16T13:47:54.123438Z"
+   committed-date="2010-08-16T13:48:34.490762Z"
+   checksum="328295e19fe63870bdd48934716d2e12"
+   last-author="markus"
+   kind="file"
+   prop-time="2010-08-15T19:17:32.089944Z"/>
+</wc-entries>

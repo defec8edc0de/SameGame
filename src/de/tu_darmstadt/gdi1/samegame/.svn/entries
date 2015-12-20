@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="150"
+   name=""
+   committed-date="2010-08-16T13:48:34.490762Z"
+   url="http://svn.sn7.eu/svn/blub/samegame/src/de/tu_darmstadt/gdi1/samegame"
+   last-author="markus"
+   kind="dir"
+   uuid="2dc8eb24-e4a6-4a0a-b996-ddef507034d4"
+   repos="http://svn.sn7.eu/svn/blub"
+   revision="162"/>
+<entry
+   name="exceptions"
+   kind="dir"/>
+<entry
+   name="tests"
+   kind="dir"/>
+<entry
+   name="ui"
+   kind="dir"/>
+</wc-entries>

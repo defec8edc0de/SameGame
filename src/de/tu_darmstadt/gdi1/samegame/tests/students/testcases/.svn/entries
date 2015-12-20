@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="6"
+   name=""
+   committed-date="2010-08-12T13:20:16.921843Z"
+   url="http://svn.sn7.eu/svn/blub/samegame/src/de/tu_darmstadt/gdi1/samegame/tests/students/testcases"
+   last-author="funky"
+   kind="dir"
+   uuid="2dc8eb24-e4a6-4a0a-b996-ddef507034d4"
+   repos="http://svn.sn7.eu/svn/blub"
+   revision="162"/>
+<entry
+   committed-rev="6"
+   name="CalcPointsTest.java"
+   text-time="2010-08-15T19:17:31.886932Z"
+   committed-date="2010-08-12T13:20:16.921843Z"
+   checksum="a0d156e63fb2d6e26646bf8b10dfe354"
+   last-author="funky"
+   kind="file"
+   prop-time="2010-08-15T19:17:31.799927Z"/>
+<entry
+   committed-rev="6"
+   name="FinishDetectionTest.java"
+   text-time="2010-08-15T19:17:31.896933Z"
+   committed-date="2010-08-12T13:20:16.921843Z"
+   checksum="3511fe53ddddb5b8ab5049dc9ca77694"
+   last-author="funky"
+   kind="file"
+   prop-time="2010-08-15T19:17:31.805927Z"/>
+<entry
+   committed-rev="6"
+   name="UndoRedoTest.java"
+   text-time="2010-08-15T19:17:31.906933Z"
+   committed-date="2010-08-12T13:20:16.921843Z"
+   checksum="2dd0e91f3158efa2e464707ce8b05654"
+   last-author="funky"
+   kind="file"
+   prop-time="2010-08-15T19:17:31.815928Z"/>
+<entry
+   committed-rev="6"
+   name="FinishDetectionExtendedTest.java"
+   text-time="2010-08-15T19:17:31.917934Z"
+   committed-date="2010-08-12T13:20:16.921843Z"
+   checksum="94e4e355c3925bb7759da31edde06c7c"
+   last-author="funky"
+   kind="file"
+   prop-time="2010-08-15T19:17:31.822928Z"/>
+<entry
+   committed-rev="6"
+   name="KeyboardTest.java"
+   text-time="2010-08-15T19:17:31.925934Z"
+   committed-date="2010-08-12T13:20:16.921843Z"
+   checksum="b06c2c4f2948eb6e160fd79f35375fb8"
+   last-author="funky"
+   kind="file"
+   prop-time="2010-08-15T19:17:31.827929Z"/>
+<entry
+   committed-rev="6"
+   name="HighscoreInLevelString.java"
+   text-time="2010-08-15T19:17:31.934935Z"
+   committed-date="2010-08-12T13:20:16.921843Z"
+   checksum="55f831561ab6a6a0100c60657df9a95a"
+   last-author="funky"
+   kind="file"
+   prop-time="2010-08-15T19:17:31.833929Z"/>
+<entry
+   committed-rev="6"
+   name="ExtraInfosTest.java"
+   text-time="2010-08-15T19:17:31.942935Z"
+   committed-date="2010-08-12T13:20:16.921843Z"
+   checksum="f1235d6936d11a2223543f08bd6377e5"
+   last-author="funky"
+   kind="file"
+   prop-time="2010-08-15T19:17:31.840929Z"/>
+<entry
+   committed-rev="6"
+   name="LoadLevelFromStringTest.java"
+   text-time="2010-08-15T19:17:31.951936Z"
+   committed-date="2010-08-12T13:20:16.921843Z"
+   checksum="ad714f8943fc4e84a935d7c236e26218"
+   last-author="funky"
+   kind="file"
+   prop-time="2010-08-15T19:17:31.846930Z"/>
+<entry
+   committed-rev="6"
+   name="NewGameTest.java"
+   text-time="2010-08-15T19:17:31.960936Z"
+   committed-date="2010-08-12T13:20:16.921843Z"
+   checksum="f4df49235b79f6787adde57838ce77bd"
+   last-author="funky"
+   kind="file"
+   prop-time="2010-08-15T19:17:31.851930Z"/>
+<entry
+   committed-rev="6"
+   name="RemoveStoneTest.java"
+   text-time="2010-08-15T19:17:31.969937Z"
+   committed-date="2010-08-12T13:20:16.921843Z"
+   checksum="92fe047c282fbb53709aae8b367b7bc4"
+   last-author="funky"
+   kind="file"
+   prop-time="2010-08-15T19:17:31.859930Z"/>
+<entry
+   committed-rev="6"
+   name="TestGenerator.java"
+   text-time="2010-08-15T19:17:31.979937Z"
+   committed-date="2010-08-12T13:20:16.921843Z"
+   checksum="b007cf26472941d4888c940fbebf2c81"
+   last-author="funky"
+   kind="file"
+   prop-time="2010-08-15T19:17:31.865931Z"/>
+<entry
+   committed-rev="6"
+   name="RemoveStoneExtendedTest.java"
+   text-time="2010-08-15T19:17:31.988938Z"
+   committed-date="2010-08-12T13:20:16.921843Z"
+   checksum="614b4dab2980c897413be0be413c25a2"
+   last-author="funky"
+   kind="file"
+   prop-time="2010-08-15T19:17:31.870931Z"/>
+<entry
+   committed-rev="6"
+   name="HighscoreTest.java"
+   text-time="2010-08-15T19:17:31.996938Z"
+   committed-date="2010-08-12T13:20:16.921843Z"
+   checksum="cc30c942602f85f784a5ce770d58b12c"
+   last-author="funky"
+   kind="file"
+   prop-time="2010-08-15T19:17:31.877931Z"/>
+</wc-entries>
